@@ -1,5 +1,4 @@
 const Filter = (props) => {
-    console.log(props);
     return (
         <form>
             <div className='card p-4'>
